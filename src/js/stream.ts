@@ -39,6 +39,7 @@ Stream.finished = finished;
 Stream.pipeline = pipeline;
 Stream.Stream = Stream;
 
+
 // old-style streams.  Note that the pipe method (the only relevant
 // part of this class) is overridden in the Readable class.
 
